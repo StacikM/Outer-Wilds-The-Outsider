@@ -60,7 +60,7 @@ Corrected by [@Myalgul](https://github.com/Myalgul) (See [#6](https://github.com
 , and [@Chaxiraxi](https://github.com/Chaxiraxi) (See [#21](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/21))
 , thank you.
 
-Completely reworked by [@LaraNanuq](https://github.com/LaraNanuq) (See [#28](https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/pull/28))
+Completely reworked by [@LaraNanuq](https://github.com/LaraNanuq) (See [#28](https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/pull/28) and [#31](https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/pull/31))
 , thank you.
 
 ### EN -> DE
